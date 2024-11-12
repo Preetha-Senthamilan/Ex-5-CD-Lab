@@ -13,8 +13,8 @@ To write a YACC program to recognize the grammar anb where n>=10.
 8.	Enter a string as input and it is identified as valid or invalid.
 # PROGRAM:
 ```
-NAME: ABINAYA S
-REG NO:212222230002
+NAME: PREETHA S
+REG NO:212222230110
 ```
 ## PROGRAM 1
 ```
